@@ -27,3 +27,6 @@ The public leaderboard calculates your score for a predetermined set 50% of the 
 Later on, the leaderboard will be frozen (you'll be warned in advance) and the other 50% results (hidden leaderboard) will be shown
 You should then reflect on both results and explain accordingly in your report. E.g. if you did well on the public leaderboard but not on the hidden one, what might have caused this?
 Also take some time the reflect on the score measure being used here. Is the the measure you'd have chosen in this setting?
+
+#username: 23
+#password: vvcfgvfr
