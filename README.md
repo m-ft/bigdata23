@@ -1,4 +1,4 @@
-# Big-Data-Group-23
+# Big-Data-Group-23 Assignment  2
 
 The second assignment consists of the construction of a predictive model.
 
